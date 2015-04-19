@@ -1,0 +1,4 @@
+E:\temp\TestGIT\GitPractice\GitClass\bin\Debug\GitClass.dll
+E:\temp\TestGIT\GitPractice\GitClass\bin\Debug\GitClass.pdb
+E:\temp\TestGIT\GitPractice\GitClass\obj\Debug\GitClass.dll
+E:\temp\TestGIT\GitPractice\GitClass\obj\Debug\GitClass.pdb

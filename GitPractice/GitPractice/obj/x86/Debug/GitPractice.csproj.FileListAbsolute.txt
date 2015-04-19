@@ -1,0 +1,4 @@
+E:\temp\TestGIT\GitPractice\GitPractice\bin\Debug\GitPractice.exe
+E:\temp\TestGIT\GitPractice\GitPractice\bin\Debug\GitPractice.pdb
+E:\temp\TestGIT\GitPractice\GitPractice\obj\x86\Debug\GitPractice.exe
+E:\temp\TestGIT\GitPractice\GitPractice\obj\x86\Debug\GitPractice.pdb
